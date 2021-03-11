@@ -1,0 +1,29 @@
+{
+  "manifest_version": 2,
+
+  "name": "D2L",
+  "description": "Swap the Destiny Stat Tracker link of each item in DIM with it's light.gg page. Note: Click off each item before viewing a new item.",
+  "version": "0.0.1",
+
+  "browser_action": {
+    "default_icon": "icon.png"
+  },
+
+  "permissions": [
+    "activeTab"
+  ],
+
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  },
+
+  "content_scripts": [
+    {
+      "matches": [
+        "https://app.destinyitemmanager.com/*"
+      ],
+      "js": ["content.js"]
+    }
+  ]
+}
