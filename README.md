@@ -8,7 +8,7 @@ Note: For this work between consistently, you must click off each item before vi
 Download the zipped folder and install it as an unpacked chrome extension.
 
 How to Install an Unpacked Chrome Extension:
-1) Go to the Chrome menue in the top right of the screen indicated by the three dots
+1) Go to the Chrome menu in the top right of the screen indicated by the three dots
 2) Click "Settings"
 3) Click "Extensions"
 4) Click "Load Unpacked"
