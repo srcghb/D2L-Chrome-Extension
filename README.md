@@ -1,7 +1,7 @@
 # D2L-Chrome-Extension
 D2L = DST to Light.gg
 
-This chrome extension swaps the Destiny Stat Tracker (DST) link of each item in Destiny Item Manager (DIM) with it's Light.gg page. 
+This chrome extension swaps the Destiny Stat Tracker (DST) link of each item in Destiny Item Manager (DIM) for it's Light.gg page. 
 
 Note: For this work between consistently, you must click off each item before viewing a new item. This allows the script to refresh and work for the new item opened in DIM.
 
